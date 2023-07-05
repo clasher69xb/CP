@@ -1,0 +1,3 @@
+Math.abs
+Math.max
+Math.min

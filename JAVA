@@ -2,3 +2,4 @@ Math.abs
 Math.max
 Math.min
 python> Java 
+read.nextInt();
